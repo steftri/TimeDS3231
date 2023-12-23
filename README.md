@@ -1,4 +1,4 @@
-# ArduinoLibrarySkeleton
+# TimeDS31
 
 Skeleton for Arduino library
 
